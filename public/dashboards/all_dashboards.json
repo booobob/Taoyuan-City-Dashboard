@@ -1,0 +1,51 @@
+{
+	"data": [
+		{
+			"name": "視線死角",
+			"index": "angle",
+			"components": ["204", "206"],
+			"icon": "place"
+		},
+		{
+			"name": "道路障礙",
+			"index": "obstacle",
+			"components": ["200", "207"],
+			"icon": "warning"
+		},
+
+		{
+			"name": "光線不良",
+			"index": "transport",
+			"components": ["202", "204"],
+			"icon": "lightbulb"
+		},
+		{
+			"name": "路面不平",
+			"index": "road",
+			"components": ["205"],
+			"icon": "build_circle"
+		},
+		{
+			"name": "收藏組件",
+			"index": "favorites",
+			"components": [
+				"203",
+				"22",
+				"200",
+				"201",
+				"202",
+				"204",
+				"205",
+				"206",
+				"207"
+			],
+			"icon": "favorite"
+		},
+		{
+			"name": "圖資資訊",
+			"index": "map-layers",
+			"components": [],
+			"icon": "public"
+		}
+	]
+}

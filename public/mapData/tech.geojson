@@ -1,0 +1,3713 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3246192, 25.0071545]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3126443, 25.0041947]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2856691, 25.0143339]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2035212, 24.9596614]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2035212, 24.9596614]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2892788, 25.0210825]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.297671, 25.00721]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2908423, 24.9961186]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2908423, 24.9961186]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2358292, 24.9743518]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.174404, 24.9904469]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1947948, 24.9765764]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.222058, 24.9914016]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1587216, 24.962478]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2221979, 24.9850841]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1922536, 24.9906464]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1922536, 24.9906464]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2137193, 25.0043239]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2414597, 24.9660178]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2155839, 25.0152156]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2319572, 24.9965277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2517944, 24.9536818]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2512396, 24.9542068]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2197109, 24.9608579]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2197109, 24.9608579]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.260978, 24.9503942]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2108245, 24.9646496]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2035848, 25.0143901]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1908972, 24.9259948]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.212128, 24.8931594]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.217382, 24.9071587]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186555, 24.9602129]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2258186, 24.8974594]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2004469, 24.9383848]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2180289, 24.9497028]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.188324, 24.9088731]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2066661, 24.9513969]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1914533, 24.9033998]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.9296022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2374554, 24.9237581]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2509556, 24.8988127]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2129753, 24.9262446]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.318572, 24.9608684]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2912463, 24.9469059]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.271247, 24.978372]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3159224, 24.9612988]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2588612, 24.9269727]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3079842, 24.9379279]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2632188, 24.8734103]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.324083, 24.8942399]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.282295, 24.899925]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2784789, 24.8909648]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.286573, 24.9079134]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.299958, 24.9184564]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2713248, 24.8324503]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2811139, 24.8993694]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.279279, 24.9086782]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2626134, 24.8978911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3052708, 24.8317548]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2552991, 24.9088049]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2552991, 24.9088049]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2969674, 24.8658422]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3444155, 24.8510209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3444155, 24.8510209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.287053, 24.8879976]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "復興區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3583172, 24.7304307]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3709319, 25.0418753]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.410258, 25.0207452]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3918389, 25.010146]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3752026, 25.0087918]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3630907, 25.0213024]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3555558, 25.0297222]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3534854, 25.0398863]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3655989, 25.0199092]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3749232, 25.0296912]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.374172, 25.0465233]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3764327, 25.0411691]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3704118, 25.0610021]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3670994, 25.056948]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3500753, 25.0207933]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3500753, 25.0207933]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.324373, 24.9924285]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3270932, 24.9932655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3502542, 25.0023476]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1860754, 24.8262614]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2320974, 24.8475972]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2375306, 24.8256643]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2177988, 24.8615517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2482956, 24.8801237]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2081665, 24.8629012]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2044687, 24.8703364]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2556372, 25.1127822]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.310085, 25.0554407]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2705554, 25.0358523]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2718115, 25.0139723]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2624166, 24.988793]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2684477, 25.0398373]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2759038, 25.0582673]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3080432, 25.081968]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2487935, 25.0332245]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3451537, 25.0659135]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2942315, 25.0439494]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2862737, 25.0339434]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2223168, 25.0853296]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.223667, 25.0450362]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.223667, 25.0450362]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.193945, 25.0492632]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1861235, 25.0460516]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2233687, 25.0218194]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2103911, 25.0595065]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2496186, 25.0948371]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2099053, 25.1023419]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2099053, 25.1023419]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.09812, 25.00156]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.052455, 25.0169679]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0874525, 25.0253262]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.04482, 24.9875874]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1252081, 24.972013]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.9517799, 24.8629277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0179607, 24.9752792]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1454698, 24.9067834]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.183654, 24.912462]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.109721, 24.8955226]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2847333, 24.9953323]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3142533, 24.9907425]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3239287, 24.9963005]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3239287, 24.9963005]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.50605, 25.14195]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.323335, 24.9961867]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3231415, 24.9961692]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3234156, 24.9961061]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2969674, 24.9934099]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2363957, 24.9643963]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [107.202518, 23.600455]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2443768, 24.9671527]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1456965, 24.9132579]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1271771, 24.8939674]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1366715, 24.9242108]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1732477, 24.9103738]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1732477, 24.9103738]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2277453, 25.0140901]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2277453, 25.0140901]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2132909, 24.9284597]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2040306, 24.9569893]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2124406, 24.9250646]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2120549, 24.924858]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.348419, 25.002103]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3655989, 25.0199092]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3679272, 25.061042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3263913, 24.9635818]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3050137, 24.9739516]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.6131105, 24.1163783]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2969674, 25.0784359]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2895994, 25.0321911]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2936953, 25.0446779]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2936953, 25.0446779]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "台61" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1558252, 25.0756045]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "台61" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1558252, 25.0756045]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.363824, 25.0017895]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.363824, 25.0017895]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3916964, 25.0355698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3916964, 25.0355698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3444155, 24.8510209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3444155, 24.8510209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園台" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1529905, 24.9552428]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園台" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1529905, 24.9552428]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3001736, 24.8915662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3001736, 24.8915662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2886852, 24.9898611]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.309181, 25.021873]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3122333, 25.0061932]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3039718, 25.0203756]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3245045, 24.9946376]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3229596, 24.9767179]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3114791, 24.9816569]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2807508, 25.0102603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3067434, 24.9902959]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3076393, 24.9820404]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2868244, 25.0020705]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3180078, 24.9860047]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3149987, 24.9910586]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.304893, 25.027059]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.314411, 24.991692]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1934345, 24.9854452]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2188202, 24.9550403]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2235454, 24.9660131]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.206592, 24.9611175]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2490768, 24.9577882]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2480834, 24.9570646]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2403578, 24.9515428]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2295604, 24.9445901]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2047897, 25.0031277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.261169, 24.973686]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2600324, 24.9735931]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1864521, 24.9850332]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2546739, 24.9618584]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2266413, 24.9614263]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2282987, 24.9549906]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2236889, 24.9572482]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.238938, 24.9865658]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1372412, 24.9185588]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1874769, 24.9129132]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1653538, 24.9372607]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1744675, 24.9114035]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1068924, 24.9688678]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0301077, 24.988902]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1807966, 24.9223564]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1998772, 25.0677498]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1986409, 25.0724135]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2302006, 25.0283807]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1751304, 25.0619339]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2593236, 25.0782665]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1142152, 24.9951767]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1019175, 25.0129261]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1425998, 25.0403716]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.26155, 24.9060963]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.278311, 24.8920351]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2831306, 24.8973428]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2656446, 24.8822369]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2768997, 24.9052615]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2104837, 24.9137022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2207912, 24.9184678]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1998919, 24.9339473]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2084106, 24.9450263]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1944742, 24.9573365]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2283833, 24.9239258]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2305719, 24.918065]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3366407, 24.9980384]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3655989, 25.0199092]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3533263, 25.0075391]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3533263, 25.0075391]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3096588, 25.0126277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.354353, 25.0618128]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3646079, 25.0567015]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3869906, 25.012065]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3869906, 25.012065]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3995286, 25.0164955]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3263913, 24.9635818]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2992169, 24.9585249]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3006423, 24.9576281]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3060253, 24.9575166]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2992707, 24.9586156]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2767636, 24.9820782]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2641865, 24.933398]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.29884, 24.93217]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2838075, 24.9482783]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.284469, 24.9291599]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3004256, 24.9646162]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2767636, 24.9820782]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2797021, 24.9309501]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2225156, 24.8650061]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2229632, 24.8628989]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2229632, 24.8628989]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1927647, 24.8297553]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2320212, 24.8734402]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2173881, 24.8680014]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.291202, 25.0488827]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2923667, 25.0518632]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2920843, 25.049751]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2920684, 25.0472785]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2892984, 25.0574963]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2420064, 25.0393843]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2673114, 24.9912776]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2827269, 25.0386133]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.268681, 25.0564148]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2720092, 25.032369]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2668494, 25.0506292]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2140636, 25.01374]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.293929, 25.0085709]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2884153, 25.0040433]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2731807, 24.979581]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2804011, 25.0103584]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2911965, 24.9765724]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3323479, 24.997158]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3135258, 25.0030671]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2957252, 25.0097658]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2713236, 24.9809586]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2989587, 24.9917033]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.243738, 24.9491209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1968201, 24.9758765]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2296686, 25.0005508]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2296686, 25.0005508]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053078, 24.9941135]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2049303, 24.9937749]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2526975, 24.9700795]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2518276, 24.9709745]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2047897, 25.0031277]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2187939, 25.0165829]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.214901, 25.002812]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2136021, 25.0064378]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2198383, 25.0103903]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2207505, 25.011298]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2043369, 25.0092189]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2115337, 24.9645454]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2365042, 24.9490326]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "中壢區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2480834, 24.9570646]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2107671, 24.9006278]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1942117, 24.8938065]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2167703, 24.9353467]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2112878, 24.8961677]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2006993, 24.9356897]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "平鎮區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2382792, 24.9011978]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.265605, 24.97545]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3265283, 24.9537581]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3255464, 24.9529819]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3143393, 24.9437621]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3143749, 24.944289]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3090568, 24.9382183]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3046357, 24.932997]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3246422, 24.9545262]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.280876, 24.929655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2789763, 24.9435487]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2705342, 24.9372213]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2657438, 24.9455836]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2641744, 24.9404603]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2649541, 24.9434806]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2763509, 24.9319421]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2827759, 24.9221501]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2827759, 24.9219009]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2832779, 24.9221372]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2980255, 24.9509767]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "八德區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3020366, 24.9725175]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "桃園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2949939, 24.9068546]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2761147, 24.9006104]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2899501, 24.9162689]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2842158, 24.9035485]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3001736, 24.8915662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2937042, 24.841555]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2942871, 24.840348]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3230246, 24.8327042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3230246, 24.8327042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3444155, 24.8510209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3444155, 24.8510209]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3230246, 24.8327042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3230246, 24.8327042]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.756022, 24.7561291]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2634118, 24.8777192]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2511349, 24.8631182]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.264162, 24.9021333]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2711303, 24.8903562]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2570792, 24.8783604]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2591436, 24.8783805]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2811139, 24.8993694]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2769647, 24.8955055]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2782093, 24.9172625]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2807435, 24.9127376]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2807435, 24.9127376]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3009468, 24.8864473]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.310878, 24.8945995]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3093473, 24.8939076]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3083976, 24.8944085]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3099953, 24.8945668]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2807493, 24.8649058]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2644408, 24.8256986]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2645055, 24.8255295]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2837364, 24.864498]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2837364, 24.864498]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2888347, 24.880651]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大溪區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2967554, 24.8879108]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "復興區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3651817, 24.7995109]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "復興區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3583172, 24.7304307]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "復興區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3583172, 24.7304307]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "復興區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3169475, 24.8293665]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "復興區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3770336, 24.709089]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3256554, 24.9875558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3254294, 24.9927038]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3786812, 25.0529258]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3705746, 25.0538776]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.393095, 25.0473432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3704118, 25.0610021]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3670994, 25.056948]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3851913, 25.0480728]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.393095, 25.0473432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3817976, 25.0521189]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3817976, 25.0521189]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3546545, 25.029396]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3501099, 25.0210662]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3474779, 25.0138915]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3500242, 25.0200001]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3522198, 25.0235943]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3804876, 25.0114159]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3822546, 25.009805]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3894998, 25.0104842]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3894998, 25.0104842]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3762347, 25.0094416]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3326181, 24.9974576]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3529383, 25.0079452]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3560394, 25.010107]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3735089, 25.027968]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3593271, 25.0128398]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3657048, 25.023545]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3709319, 25.0418753]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3771485, 25.0438466]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3764327, 25.0411691]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3385864, 24.9952436]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3386469, 24.9952636]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3386557, 24.9956341]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3849449, 25.012064]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3861825, 25.0121012]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.332477, 24.9934851]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3655989, 25.0199092]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3665437, 25.0541371]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3581373, 25.0543501]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3561064, 25.0570473]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.358715, 25.0571641]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3537228, 25.0595649]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3546545, 25.029396]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3550058, 25.0288938]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3326181, 24.9974576]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3587966, 25.0127699]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3694128, 25.0250509]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3694128, 25.0250509]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5104727, 25.0482784]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.5104727, 25.0482784]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3786812, 25.0529258]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3644892, 25.0224126]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3504284, 25.0207266]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3869906, 25.012065]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2046032, 24.852064]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3655989, 25.0199092]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2414574, 24.8767812]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2444576, 24.8484276]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3655989, 25.0199092]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2053963, 24.8444927]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龜山區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1980679, 24.8848738]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2112782, 24.8237879]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "龍潭區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2267976, 24.819082]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.3124176, 25.061234]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2969674, 25.0784359]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2816253, 25.0397432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1319721, 24.9945153]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2856957, 25.0761605]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.285272, 25.077926]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "蘆竹區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2850669, 25.0343477]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2495588, 25.0948281]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2128648, 25.0295398]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2128648, 25.0295398]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.193945, 25.0492632]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.193945, 25.0492632]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.193945, 25.0492632]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [120.4339799, 24.103517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "大園區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.211518, 25.042348]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1276529, 25.0174843]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1276529, 25.0174843]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1552, 25.0531999]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "觀音區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1552, 25.0531999]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0595326, 24.9831352]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.0301077, 24.988902]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1403475, 24.9671671]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.067907, 24.9826597]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.067907, 24.9826597]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "新屋區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.067907, 24.9826597]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1014316, 24.9294792]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1014316, 24.9294792]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1152533, 24.8975529]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1138916, 24.8968849]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "town": "楊梅區" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.1162952, 24.9121352]
+			}
+		}
+	]
+}

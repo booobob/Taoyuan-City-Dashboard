@@ -1,0 +1,2521 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.290696, 24.884589]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.386175, 25.009183]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.386175, 25.009183]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.302404, 25.052131]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.163234, 24.961337]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.255888, 25.100036]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.307149, 24.998177]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.307092, 24.998276]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.307092, 24.998276]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "不明原因肇事",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.265303, 24.934301]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.311639, 25.00793]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.300561, 24.986302]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.259233, 24.88663]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.124787, 24.921828]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.314999, 24.991059]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.314999, 24.991059]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.312669, 24.995308]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.312669, 24.995308]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.316092, 24.985741]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.316092, 24.985741]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.312669, 24.995308]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.220813, 24.95935]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.206036, 25.001889]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.347895, 25.062966]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.120061, 25.051767]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.289143, 24.976061]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.308441, 24.998859]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.280458, 24.97862]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.297584, 25.024374]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.256221, 24.917472]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.200185, 24.921438]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.200185, 24.921438]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.165343, 24.961216]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.287569, 25.048686]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.240348, 24.892527]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.155133, 24.941554]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.346015, 25.00159]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.346015, 25.00159]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.183062, 24.932705]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.284312, 24.923803]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.179799, 25.063607]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.203587, 25.071258]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.203587, 25.071258]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.204859, 25.061057]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.204859, 25.061057]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.265808, 25.1181]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.265808, 25.1181]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.133657, 25.070231]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.133657, 25.070231]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.20388, 25.061469]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.20388, 25.061469]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.160556, 24.927295]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.311749, 24.996787]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.311749, 24.996787]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.286238, 25.033756]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.314116, 24.992157]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.197138, 24.900388]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303826, 24.962069]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.294276, 24.959541]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.249082, 25.10913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.249082, 25.10913]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.149483, 24.912876]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.18547, 24.959022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.18547, 24.959022]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.239999, 25.101309]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.234895, 24.884317]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295467, 24.956445]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295467, 24.956445]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "其他引起事故之疏失或行為",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.269724, 24.979588]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.087061, 25.050568]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.250612, 25.110078]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.236089, 24.985746]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.291462, 25.048698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.291462, 25.048698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.302286, 25.034696]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.211956, 24.94371]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.241852, 24.845163]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.337169, 24.993858]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.30116, 24.991832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.287672, 24.962678]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.336992, 24.992112]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.336992, 24.992112]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.292836, 25.045893]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.292836, 25.045893]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.190295, 24.835575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.244377, 24.967153]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.244377, 24.967153]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.244377, 24.967153]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.228264, 25.006757]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.228264, 25.006757]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.304436, 25.020517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.204172, 25.076039]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.186371, 24.914803]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.108835, 25.063203]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.108835, 25.063203]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.233366, 24.818238]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.233366, 24.818238]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.300002, 24.837785]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.089269, 24.89794]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.29474, 24.932616]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.214554, 25.104633]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.191596, 25.068151]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.191596, 25.068151]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.191596, 25.068151]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.191596, 25.068151]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.306893, 24.926854]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.297099, 25.00635]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.297099, 25.00635]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.393923, 25.033881]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.393923, 25.033881]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.393923, 25.033881]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.243613, 24.925844]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.019848, 24.985629]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.162066, 24.997053]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.162066, 24.997053]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.243834, 24.925843]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.11654, 25.067273]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.11654, 25.067273]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.297481, 25.020921]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.174211, 24.971597]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "不明原因肇事", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303437, 25.03171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303437, 25.03171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303437, 25.03171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303437, 25.03171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "不明原因肇事", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303437, 25.03171]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.051436, 25.027871]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.051436, 25.027871]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.18913, 25.067659]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.206932, 25.000891]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.206932, 25.000891]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.312304, 25.044626]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.243626, 24.979363]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.243626, 24.979363]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.217203, 24.964051]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.129807, 24.905052]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.229614, 24.923826]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.229614, 24.923826]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303736, 25.000186]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.147171, 25.053152]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.147171, 25.053152]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.344458, 24.851035]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.2218, 24.865067]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.289836, 25.023741]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.262064, 24.895488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.262064, 24.895488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.187174, 24.963034]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.187174, 24.963034]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.268039, 24.985412]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.272014, 24.917712]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.275439, 25.111079]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.268168, 24.985482]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.268168, 24.985482]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.302561, 24.939148]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.24292, 24.846355]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.237367, 24.887038]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.343057, 24.996484]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.343057, 24.996484]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.14893, 24.902744]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.236339, 24.97919]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.257203, 24.9356]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.421981, 24.694401]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.243522, 25.10592]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.243522, 25.10592]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.263464, 25.063808]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.263464, 25.063808]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.107638, 25.051062]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.179653, 24.977485]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.163439, 25.077655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.163439, 25.077655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.163439, 25.077655]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.174306, 24.927467]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.220328, 24.859539]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.220328, 24.859539]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.220328, 24.859539]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.220328, 24.859539]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.211532, 24.909578]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.211532, 24.909578]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.267841, 25.111157]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.278853, 25.024159]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.253353, 24.939176]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.101461, 25.056494]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.09812, 25.00156]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.247315, 24.979735]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.106104, 25.058032]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.154939, 25.031748]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.217344, 25.057338]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.217344, 25.057338]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.284564, 24.988345]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.142926, 24.947874]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.101916, 25.058176]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.101916, 25.058176]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.220651, 24.865723]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295905, 24.956466]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.295905, 24.956466]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.267376, 25.085053]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.267376, 25.085053]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "不明原因肇事", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.232772, 24.873411]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.181754, 24.958451]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.181754, 24.958451]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.211482, 24.956115]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.211482, 24.956115]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.315441, 24.990591]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.229508, 25.038698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.229508, 25.038698]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.283282, 24.930449]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.283282, 24.930449]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.283282, 24.930449]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.23112, 24.911832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.23112, 24.911832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.23112, 24.911832]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.147329, 25.050338]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.147329, 25.050338]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.225297, 24.959997]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.225297, 24.959997]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "不明原因肇事", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.280551, 24.978244]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.280551, 24.978244]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.242832, 24.953412]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.242832, 24.953412]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.242832, 24.953412]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.242832, 24.953412]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.309284, 24.876607]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.301273, 24.95688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.301273, 24.95688]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.229148, 25.004025]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.223545, 24.966013]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.225265, 24.904367]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.225265, 24.904367]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.277512, 24.98273]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303972, 25.020376]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "其他引起事故之疏失或行為",
+				"type": "有坑洞"
+			},
+			"geometry": { "type": "Point", "coordinates": [121.079169, 24.935] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": { "type": "Point", "coordinates": [121.079169, 24.935] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": { "type": "Point", "coordinates": [121.079169, 24.935] }
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.301885, 25.035989]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.293159, 24.960469]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.255152, 25.049878]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.255152, 25.049878]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.276148, 25.06102]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.276148, 25.06102]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.258563, 25.079469]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.258563, 25.079469]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.173766, 25.081447]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.173766, 25.081447]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.261833, 25.116358]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.261833, 25.116358]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.212752, 25.03591]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.217165, 24.932642]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.217165, 24.932642]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.200975, 24.936558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.200975, 24.936558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.251889, 24.875363]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.22884, 24.964443]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.265408, 24.903488]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.238764, 24.843605]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.307511, 25.000246]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.228941, 25.00432]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "路面鬆軟" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.245868, 24.924435]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.40088, 25.017731]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.255396, 25.050144]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.255396, 25.050144]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.290134, 24.991826]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.266736, 25.0938]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.266736, 25.0938]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.258415, 25.079831]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303411, 25.032377]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.303411, 25.032377]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.336728, 24.99483]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.305866, 24.980789]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.305866, 24.980789]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.296139, 24.924813]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.296137, 24.924755]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.296137, 24.924755]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.276663, 25.058158]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.229105, 25.00309]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "未注意車前狀態", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.356407, 25.010785]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.356407, 25.010785]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.089815, 24.93501]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.089815, 24.93501]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": { "reason": "尚未發現肇事因素", "type": "有坑洞" },
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.287105, 24.876379]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.297834, 24.949127]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "未注意車前狀態",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.382966, 25.049033]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.382966, 25.049033]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"reason": "尚未發現肇事因素",
+				"type": "突出(高低)不平"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.243373, 25.042344]
+			}
+		}
+	],
+	"count_data": 282
+}
